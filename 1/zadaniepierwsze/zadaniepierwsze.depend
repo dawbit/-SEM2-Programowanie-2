@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1488536224 source:d:\zadaniepierwsze\main.cpp
+	"zoo.h"
+
+1488535773 d:\zadaniepierwsze\zoo.h
+	<iostream>
+
+1488536452 source:d:\zadaniepierwsze\zoo.cpp
+	"zoo.h"
+
+1488537334 source:c:\users\intexpc\downloads\programowanie_sem2\1\zadaniepierwsze\main.cpp
+	"zoo.h"
+
+1488535774 c:\users\intexpc\downloads\programowanie_sem2\1\zadaniepierwsze\zoo.h
+	<iostream>
+
+1488536454 source:c:\users\intexpc\downloads\programowanie_sem2\1\zadaniepierwsze\zoo.cpp
+	"zoo.h"
+

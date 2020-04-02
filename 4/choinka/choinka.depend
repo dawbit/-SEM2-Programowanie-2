@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1495006104 source:c:\users\njawo\desktop\choinka\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+
+1519710326 source:c:\users\dawid\desktop\semestr 2\prog_sem2_sobota\4\choinka\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+

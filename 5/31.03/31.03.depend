@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1490953915 source:d:\31.03\ciala.cpp
+	"klasy.h"
+
+1490954260 d:\31.03\klasy.h
+	<iostream>
+
